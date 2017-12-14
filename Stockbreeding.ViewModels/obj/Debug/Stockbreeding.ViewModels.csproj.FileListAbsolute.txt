@@ -1,0 +1,8 @@
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\bin\Debug\Stockbreeding.ViewModels.dll
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\bin\Debug\Stockbreeding.ViewModels.pdb
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\bin\Debug\Stockbreeding.Models.dll
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\bin\Debug\Stockbreeding.Models.pdb
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\obj\Debug\Stockbreeding.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\obj\Debug\Stockbreeding.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\obj\Debug\Stockbreeding.ViewModels.dll
+C:\Users\bibip_000\source\repos\Stockbreeding\Stockbreeding.ViewModels\obj\Debug\Stockbreeding.ViewModels.pdb
